@@ -1,4 +1,8 @@
 # New York Restaurants Project
+# This is a project that involved progressively querying for different pieces of information. 
+# The table nomnom contains the following columns: neighborhood, cuisine, review, price, and health rating.
+
+
 
 # Returns all distinct neighborhoods from the neighborhood column
 
